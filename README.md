@@ -1,2 +1,2 @@
 # Capstone-Projects--IPL-Win-Predictor
-This is still work in progress proeject
+The project has been completed now
